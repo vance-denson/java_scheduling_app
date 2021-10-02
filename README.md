@@ -1,5 +1,7 @@
 # Java course for WGU
 
+*This was a neat project, JavaFX MVC!*
+
 ## Requirements
 
 ### User Interface
